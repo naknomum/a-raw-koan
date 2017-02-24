@@ -2,7 +2,6 @@
 
 use Net::Twitter;
 use Image::Magick;
-use Data::Dumper;
 require 'keys.pl';
 
 my $file = '/tmp/today.png';
