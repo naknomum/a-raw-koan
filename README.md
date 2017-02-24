@@ -11,4 +11,5 @@ up a cronjob to do this daily.
 
 ## SVG
 
-Also included a bonus svg which does roughly the same thing and an example of it embedded.
+Also included a bonus svg which does roughly the same thing and
+an [example](https://naknomum.github.io/a-raw-koan/) of it embedded.
