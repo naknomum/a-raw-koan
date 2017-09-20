@@ -1,8 +1,10 @@
 # A Raw Koan - After On Kawara
 
-Inspired by a (non-)challenge from Patrick Lichty to create a bot to create a daily image
-based on the work of On Kawara's "Today" series.  The original proposal was to post to flickr,
-so I may extend it to that (and more!) soon.
+Inspired by a (non-)challenge from [Patrick Lichty](http://voyd.com) to create a bot to create a daily image
+based on the work of On Kawara's "Today" series.
+Patrick has [his own site](http://www.afteronkawara.com/) where he does the same.
+The original proposal was to post to flickr, so I may extend it to do that (and more!) soon.
+
 
 ## Running
 
